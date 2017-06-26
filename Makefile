@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 18
 SUBLEVEL = 55
-EXTRAVERSION =
+EXTRAVERSION = FluorineKernel
 NAME = Shuffling Zombie Juror
 
 # *DOCUMENTATION*
