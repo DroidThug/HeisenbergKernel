@@ -1,21 +1,21 @@
-----------------------------
-Vulcan | To Power
-----------------------------
+-------------------------------------
+Heisenberg Kernel | QuantumOrientalis
+-------------------------------------
 Licensed under The GNU/General Public License (GPL) version 2 unless explictly specified with another license or if preferred an updated version of the same license
 
 
 Here is a copy of the license
 
 
-[![License](http://icons.iconarchive.com/icons/icons8/windows-8/64/Business-Diploma-1-icon.png)](https://github.com/DroidThug/vulcan_mido#license)
+[![License](http://icons.iconarchive.com/icons/icons8/windows-8/64/Business-Diploma-1-icon.png)](https://github.com/DroidThug/HeisenbergKernel#license)
 
 
 ## Downloads
-[![Downloads](http://icons.iconarchive.com/icons/trayse101/photoshop-filetypes/64/kernel-icon.png)](http://vulcan.droidthug.me)
+[![Downloads](http://icons.iconarchive.com/icons/trayse101/photoshop-filetypes/64/kernel-icon.png)](http://heisenberg.droidthug.me)
 
 
 ## Contributors
-[![Contributors](http://icons.iconarchive.com/icons/icons8/ios7/64/Business-Collaboration-icon.png)](https://github.com/DroidThug/vulcan_mido/graphs/contributors)
+[![Contributors](http://icons.iconarchive.com/icons/icons8/ios7/64/Business-Collaboration-icon.png)](https://github.com/DroidThug/HeisenbergKernel/graphs/contributors)
 
 
 ```
