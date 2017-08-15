@@ -59,6 +59,10 @@ Module.symvers
 !.mailmap
 
 #
+# Misc. config files that we don't want to ignore even it they are dot-files
+!.travis.yml
+
+#
 # Generated include files
 #
 include/config
