@@ -107,7 +107,7 @@ umount /system;
 umount /data;
 ui_print " ";
 ui_print "Forced all quantum-packets to merge...";
-sleep(3);
+sleep 3;
 ui_print "All orbitals are at a stable energy state | If not, contact @ thug@droidthug.me";
 ui_print " ";
 ui_print " ";
