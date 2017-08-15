@@ -93,10 +93,8 @@ cd -;
 if [ -f "$FINAL_ZIP" ];
 then
 echo -e "$ZIPNAME zip can be found at $FINAL_ZIP";
-if [[ "$@" =~ "transfer" ]]; then
-    echo -e "Uploading ${ZIPNAME} to https://transfer.sh/";
-    transfer "${FINAL_ZIP}";
-fi
+echo -e "Uploading ${ZIPNAME} to https://transfer.sh/";
+transfer "${FINAL_ZIP}";
 else
 echo -e "Zip Creation Failed =(";
 fi # FINAL_ZIP check
