@@ -1,9 +1,9 @@
 VERSION = 3
 PATCHLEVEL = 18
-SUBLEVEL = 65
+SUBLEVEL = 66
 CUSTOMVERSION ?= HeisenbergKernel
 EXTRAVERSION = -$(CUSTOMVERSION)
-NAME = Shuffling Zombie Juror
+NAME = Diseased Newt
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
