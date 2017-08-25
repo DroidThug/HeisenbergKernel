@@ -16,7 +16,7 @@ before_script:
   - git clone https://github.com/nathanchance/gcc-prebuilts -b aarch64-gnu-7.x $HOME/GNU/GCC7
 
 # Download the Kernel Sources
-  - git clone --depth=50 --branch=HB-At.R1-3.18-DevStream https://github.com/DroidThug/HeisenbergKernel  $HOME/heisenberg
+  - git clone --depth=50 --branch=staging/Oreo-HBerg https://github.com/DroidThug/HeisenbergKernel  $HOME/heisenberg
 
 # Download AnyKernel2
 script:
